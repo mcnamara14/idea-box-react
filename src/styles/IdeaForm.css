@@ -1,0 +1,27 @@
+.ideaForm {
+  width: 100%;
+}
+
+input {
+  border: 2px solid #ccc;
+  box-sizing: border-box;
+  font-size: 3vh;
+  height: 5vh;
+  margin-bottom: 2vh;
+  padding: 2vh 2vh 2vh 1vh;
+  width: 100%;
+}
+
+header button {
+  background: #00a79d;
+  border: none;
+  color: #fff;
+  font-size: 3vh;
+  height: 6vh;
+  width: 100%;
+}
+
+::placeholder {
+  color: #ccc;
+  font-size: 3vh;
+}
